@@ -7,7 +7,7 @@ int main() {
   using std::cin;
   int size = 3;
   Coordinates velo_vec(size);
-  for (int i = 0; i < 3; ++i) {
+  for (int i = 0; i < size; ++i) {
     cout << " Take the coordinate:";
     cin >> velo_vec[i];
   }
