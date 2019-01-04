@@ -1,10 +1,4 @@
-//
-//  Functions.cpp
-//  Velocity to bound1
-//
-//  Created by Andrew on 04.01.2019.
-//  Copyright © 2019 Andrew. All rights reserved.
-//
+
 
 #include <stdio.h>
 #include <cmath>
