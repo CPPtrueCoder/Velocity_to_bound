@@ -1,10 +1,4 @@
-//
-//  main.cpp
-//  Velocity to bound1
-//
-//  Created by Andrew on 27.12.2018.
-//  Copyright © 2018 Andrew. All rights reserved.
-//
+
 
 #include <iostream>
 #include "Coordinate.hpp"
