@@ -1,6 +1,4 @@
 
-
-#include <stdio.h>
 #include <cmath>
 #include "Coordinate.hpp"
 void Velocity_to_bound(const Coordinates& velo_vec,
